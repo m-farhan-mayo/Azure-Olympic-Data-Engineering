@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/tree/main/data",
+			"url": "https://github.com/m-farhan-mayo/Azure-Olympic-Data-Engineering/tree/main/dataset",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
