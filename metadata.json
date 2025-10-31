@@ -1,0 +1,24 @@
+{
+    "files": [
+        {
+            "fileName": "Athletes.csv",
+            "fileUrl": "https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/blob/main/data/Athletes.csv"
+        },
+        {
+            "fileName": "Coaches.csv",
+            "fileUrl": "https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/blob/main/data/Coaches.csv"
+        },
+        {
+            "fileName": "EntriesGender.csv",
+            "fileUrl": "https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/blob/main/data/EntriesGender.csv"
+        },
+        {
+            "fileName": "Medals.csv",
+            "fileUrl": "https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/blob/main/data/Medals.csv"
+        },
+        {
+            "fileName": "Teams.csv",
+            "fileUrl": "https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/blob/main/data/Teams.csv"
+        }
+    ]
+}
