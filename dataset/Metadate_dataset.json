@@ -1,0 +1,32 @@
+{
+	"name": "Metadate_dataset",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Storage_connection_LS",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileName": "metadata.json",
+				"fileSystem": "source"
+			}
+		},
+		"schema": {
+			"type": "object",
+			"properties": {
+				"p_url": {
+					"type": "string"
+				},
+				"p_folder": {
+					"type": "string"
+				},
+				"p_file": {
+					"type": "string"
+				}
+			}
+		}
+	}
+}
