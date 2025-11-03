@@ -1,27 +1,27 @@
 [
-        {
-            "p_file": "Athletes.parquet",
-            "p_folder": "Athletes",
-            "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/Athletes.csv"
-        },
-        {
-            "p_file": "Coaches.parquet",
-            "p_folder": "Coaches",
-            "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/Coaches.csv"
-        },
-        {
-            "p_file": "EntriesGender.parquet",
-            "p_folder": "EntriesGender",
-            "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/EntriesGender.csv"
-        },
-        {
-            "p_file": "Medals.parquet",
-            "p_folder": "Medals",
-            "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/Medals.csv"
-        },
-        {
-            "p_file": "Teams.parquet",
-            "p_folder": "Teams",
-            "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/Teams.csv"
-        }
+    {
+        "p_file": "Athletes.parquet",
+        "p_folder": "Athletes",
+        "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/Athletes.csv"
+    },
+    {
+        "p_file": "Coaches.parquet",
+        "p_folder": "Coaches",
+        "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/Coaches.csv"
+    },
+    {
+        "p_file": "EntriesGender.parquet",
+        "p_folder": "EntriesGender",
+        "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/EntriesGender.csv"
+    },
+    {
+        "p_file": "Medals.parquet",
+        "p_folder": "Medals",
+        "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/Medals.csv"
+    },
+    {
+        "p_file": "Teams.parquet",
+        "p_folder": "Teams",
+        "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/Teams.csv"
+    }
 ]
