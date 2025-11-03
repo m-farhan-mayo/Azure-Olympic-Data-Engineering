@@ -1,24 +1,27 @@
-{
-    "files": [
+[
         {
-            "fileName": "Athletes.csv",
-            "fileUrl": "https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/blob/main/data/Athletes.csv"
+            "p_file": "Athletes.parquet",
+            "p_folder": "Athletes",
+            "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/Athletes.csv"
         },
         {
-            "fileName": "Coaches.csv",
-            "fileUrl": "https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/blob/main/data/Coaches.csv"
+            "p_file": "Coaches.parquet",
+            "p_folder": "Coaches",
+            "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/Coaches.csv"
         },
         {
-            "fileName": "EntriesGender.csv",
-            "fileUrl": "https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/blob/main/data/EntriesGender.csv"
+            "p_file": "EntriesGender.parquet",
+            "p_folder": "EntriesGender",
+            "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/EntriesGender.csv"
         },
         {
-            "fileName": "Medals.csv",
-            "fileUrl": "https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/blob/main/data/Medals.csv"
+            "p_file": "Medals.parquet",
+            "p_folder": "Medals",
+            "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/Medals.csv"
         },
         {
-            "fileName": "Teams.csv",
-            "fileUrl": "https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/blob/main/data/Teams.csv"
+            "p_file": "Teams.parquet",
+            "p_folder": "Teams",
+            "p_url": "m-farhan-mayo/Azure-Olympic-Data-Engineering/refs/heads/main/dataset/Teams.csv"
         }
-    ]
-}
+]
