@@ -1,7 +1,7 @@
 {
 	"name": "Git_To_Storage",
 	"properties": {
-		"description": "Copying Multiple Files Using Single Pipeline (Sully Dynamically)",
+		"description": "Copying Multiple Files Using Single Pipeline (Fully Dynamically)",
 		"activities": [
 			{
 				"name": "LookUP-JSON",
